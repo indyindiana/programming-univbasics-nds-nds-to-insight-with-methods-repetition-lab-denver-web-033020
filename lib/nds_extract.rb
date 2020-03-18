@@ -47,7 +47,7 @@ def total_gross(source)
       running_total += directors_totals(source)[][current_director]
     
      
-    end
+    
   numdirectors += 1 
   end
 return running_total
