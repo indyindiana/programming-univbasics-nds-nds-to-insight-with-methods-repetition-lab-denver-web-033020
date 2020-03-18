@@ -43,6 +43,7 @@ def total_gross(source)
   running_total = 0 
   numdirectors = 0 
   while numdirectors < directors.length do 
+    
     binding.pry
   end
   
