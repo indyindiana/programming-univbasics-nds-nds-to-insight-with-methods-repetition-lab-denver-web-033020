@@ -39,18 +39,18 @@ end
 def total_gross(source)
   
   
-  running_total = 0 
-  numdirectors = 0 
-  while numdirectors < list_of_directors(source).length
-    current_director = list_of_directors(source)[numdirectors]
+#   running_total = 0 
+#   numdirectors = 0 
+#   while numdirectors < list_of_directors(source).length
+#     current_director = list_of_directors(source)[numdirectors]
     
-      running_total += directors_totals(source)[][current_director]
+#       running_total += directors_totals(source)[][current_director]
     
      
     
-  numdirectors += 1 
-  end
-return running_total
+#   numdirectors += 1 
+#   end
+# return running_total
   # Write this implementation
   #
   # Should use methods:
