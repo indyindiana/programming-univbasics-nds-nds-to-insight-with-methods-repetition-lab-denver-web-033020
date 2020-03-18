@@ -43,7 +43,7 @@ def total_gross(source)
   running_total = 0 
   numdirectors = 0 
   while numdirectors < directors.length do 
-    directors_totals[directors[numdirectors]]
+    
     
     running_total += 
     numdirectors += 1
